@@ -1,1 +1,1 @@
-# Projeto criado com a finalidade de testar o GeminiAPI criando um ChatBOT
+# Projetos de chatBOT e busca de documentos utilizando embeddings e GeminiAPI criados baseados na Imersão Alura+Google.
